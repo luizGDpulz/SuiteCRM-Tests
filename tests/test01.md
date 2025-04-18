@@ -74,7 +74,6 @@ N/A – The test passed without any errors.
 
 - **Screenshots and/or Video Evidence:**\
   - Admin Dashboard:
-  ![Admin user dashboard after login](../images/test01-admindashboard.png)
+  ![Admin user dashboard after login](../evidence/test01-admindashboard.png)
   - User Dashboard:
-  ![Standard user dashboard after login](../images/test01-userdashboard.png)
-
+  ![Standard user dashboard after login](../evidence/test01-userdashboard.png)
