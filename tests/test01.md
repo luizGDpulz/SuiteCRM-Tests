@@ -73,7 +73,8 @@ N/A – The test passed without any errors.
   - Screen Resolution: 1920x1080
 
 - **Screenshots and/or Video Evidence:**\
-  - Admin Dashboard:
-  ![Admin user dashboard after login](../evidence/test01-admindashboard.png)
-  - User Dashboard:
-  ![Standard user dashboard after login](../evidence/test01-userdashboard.png)
+  - Admin login:
+    ![Image](https://github.com/user-attachments/assets/317fff8e-7d49-4fa7-830f-1a87b8cec6e2)
+  - User login:
+    ![Image](https://github.com/user-attachments/assets/1b435af6-a6a1-403e-8274-4c82ce6bdd1e)
+   
