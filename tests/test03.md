@@ -63,5 +63,11 @@ Although the system performs proper validation, it does not explicitly indicate 
 - **Screenshots and/or Video Evidence:**
   - Creating a Contact: 
    ![Image](https://github.com/user-attachments/assets/c42468e7-d4d9-4a58-9f12-55e3f9a049c1)
+  - Create Contact option in Dashboard: 
+   ![Create Contact option in dashboard](../evidence/test03-createcontactdashboard.png)
+  - Create Contact Menu:
+   ![Create Contact Menu](../evidence/test03-createcontactmenu.png)
+  - Create Contact form filled with last name only:
+   ![Create Contact form filled with last name only](../evidence/test03-onlylastname.png)
   - Validation error when no fields are filled:
    ![Validation error when no fields are filled](../evidence/test03-erronofields.png)
