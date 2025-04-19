@@ -63,6 +63,8 @@ N/A – No errors occurred.
   - Screen Resolution: 1920x1080
 
 - **Screenshots and/or Video Evidence:**
+  - Editing a Contact:
+  ![GIF](https://github.com/user-attachments/assets/ca6bbff1-257f-4c5d-9875-f57b6627a9f9)
   - View Contact Option:
   ![View Contact Option](../evidence/test04-viewcontactsoption.png)
   - View Contact Dashboard:

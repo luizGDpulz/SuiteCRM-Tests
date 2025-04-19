@@ -74,7 +74,7 @@ N/A – The test passed without any errors.
 
 - **Screenshots and/or Video Evidence:**\
   - Admin login:
-    ![Image](https://github.com/user-attachments/assets/317fff8e-7d49-4fa7-830f-1a87b8cec6e2)
+    ![GIF](https://github.com/user-attachments/assets/317fff8e-7d49-4fa7-830f-1a87b8cec6e2)
   - User login:
-    ![Image](https://github.com/user-attachments/assets/1b435af6-a6a1-403e-8274-4c82ce6bdd1e)
+    ![GIF](https://github.com/user-attachments/assets/1b435af6-a6a1-403e-8274-4c82ce6bdd1e)
    
