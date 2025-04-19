@@ -64,5 +64,5 @@ N/A – The test passed without any unexpected behavior.
   - Invalid login:
     ![Image](https://github.com/user-attachments/assets/a3350654-b821-4a50-80e6-5091284bf72b)
   - Invalid login error:
-  ![Invalid login attempt showing error message](../evidence/test02-loginfailed.png)
+    ![Invalid login attempt showing error message](../evidence/test02-loginfailed.png)
 
