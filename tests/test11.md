@@ -59,6 +59,6 @@ N/A – Performance was slightly slower than expected, but within a reasonable r
   - Screen Resolution: 1920x1080
 
 - **Screenshots and/or Video Evidence:**
-  - Video with infos:
-  
+  - Video with infos and performance status:
+  ![GIF](../evidence/test11-evidence.gif)
 
