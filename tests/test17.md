@@ -63,3 +63,7 @@ The system should allow users to generate customized reports with multiple recor
   - RAM: 20.0 GB
   - Browser: Google Chrome Version 135.0.7049.96
   - Screen Resolution: 1920x1080
+
+- **Screenshots and/or Video Evidence:**
+  - Image with the PDF limitation:
+  ![image](../evidence/test17-pdflimitation.png)
