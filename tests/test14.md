@@ -59,7 +59,3 @@ N/A – No errors encountered.
   - System Type: 64-bit
   - Browser: Google Chrome Version 135.0.7049.96 (Official build) 64-bit
   - Screen Resolution: 1920x1080
-
-- **Screenshots and/or Video Evidence:**
-  - Video with the process:
-
