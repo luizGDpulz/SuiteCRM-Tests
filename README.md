@@ -1,5 +1,7 @@
 # SuiteCRM-Tests
 
+![CRMLogo](./evidence/company_logo.png)
+
 ## Summary
 - [Table of Contents](#table-of-contents)
 - [Test Summaries](#test-summaries)
